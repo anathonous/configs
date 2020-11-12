@@ -1,2 +1,2 @@
 # configs
-Mics Configs
+Misc Configs
